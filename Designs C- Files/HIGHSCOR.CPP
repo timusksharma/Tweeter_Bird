@@ -68,3 +68,6 @@ Highscore();
 getch();
 closegraph();
 }
+
+
+
