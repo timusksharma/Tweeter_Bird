@@ -7,7 +7,6 @@
 #include<string.h>
 #include<graphics.h>
 
-
 union REGS i,o;
 void showmouse()
 {
