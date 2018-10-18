@@ -3,7 +3,7 @@
 #include<ctype.h>
 #include<stdio.h>
 #include<stdlib.h>
-#include<dos.h>
+#include<do.h>
 #include<string.h>
 #include<graphics.h>
 
